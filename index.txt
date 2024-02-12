@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Richard hanrick
 Richard hanrick
-Web developer
+Machine Learning Engineer
 
 Show Contacts
 
@@ -42,7 +42,7 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+computer vision
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
